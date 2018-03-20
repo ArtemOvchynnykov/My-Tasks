@@ -1,0 +1,35 @@
+#header{
+    min-width: 750px;
+    height: 60px;
+    width: 1030px;
+    border: 1px solid black;
+}
+#menu-container{
+    min-height: 750px;
+    height: auto;
+    width: 244px;
+    display: inline-block;
+    border: 1px solid black;
+    margin-top: 30px;
+
+
+}
+#volume-center{
+    min-height: 750px;
+    height: auto;
+    width: 711px;
+    display: block;
+    float: right;
+    border: 1px solid black;
+    margin-top: 30px;
+}
+#footer{
+    width: 1030px;
+    height: 60px;
+    border: 1px solid black;
+    display: block;
+}
+.body{
+    width: 1030px;
+    height: auto;
+}
