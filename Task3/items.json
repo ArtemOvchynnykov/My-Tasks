@@ -1,10 +1,7 @@
-{
-  "kind": "books#volumes",
-  "totalItems": 483,
-  "items": [
+{ "KUjaWG-_V2EC":
     {
       "kind": "books#volume",
-      "id": "KUjaWG-_V2EC",
+
       "etag": "Fu+S82ZNlwc",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/KUjaWG-_V2EC",
       "volumeInfo": {
@@ -100,9 +97,9 @@
         "textSnippet": "Описан базовый синтаксис языка Python: типы данных, операторы, условия, циклы, регулярные выражения, встроенные функции, объектно ..."
       }
     },
+  "carqdIdfVlYC":
     {
       "kind": "books#volume",
-      "id": "carqdIdfVlYC",
       "etag": "LunbiCvcJQs",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/carqdIdfVlYC",
       "volumeInfo": {
@@ -171,9 +168,9 @@
         "textSnippet": "This guide contains cross-platform coverage for the Mac, Windows, and Unix environments as it teaches techniques for cookies, session management, and integration with XML."
       }
     },
+  "5fc1CwAAQBAJ":
     {
       "kind": "books#volume",
-      "id": "5fc1CwAAQBAJ",
       "etag": "GdWJ1mEEsjM",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/5fc1CwAAQBAJ",
       "volumeInfo": {
@@ -266,9 +263,9 @@
         "textSnippet": "Книга «Программирование на Python для начинающих» является исчерпывающим руководством для того, чтобы научиться программировать на ..."
       }
     },
+  "wqeVv09Y6hIC":
     {
       "kind": "books#volume",
-      "id": "wqeVv09Y6hIC",
       "etag": "xdmWgI43R30",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/wqeVv09Y6hIC",
       "volumeInfo": {
@@ -334,9 +331,8 @@
         "quoteSharingAllowed": false
       }
     },
-    {
+  "igcZ-fnxTwEC":{
       "kind": "books#volume",
-      "id": "igcZ-fnxTwEC",
       "etag": "pCD6zsHFTLI",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/igcZ-fnxTwEC",
       "volumeInfo": {
@@ -432,9 +428,9 @@
         "textSnippet": "Описан базовый синтаксис языка Python: типы данных, операторы, условия, циклы, регулярные выражения, встроенные функции, объектно ..."
       }
     },
+  "GOVOCwAAQBAJ":
     {
       "kind": "books#volume",
-      "id": "GOVOCwAAQBAJ",
       "etag": "O/ydYsvL0lg",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/GOVOCwAAQBAJ",
       "volumeInfo": {
@@ -529,9 +525,10 @@
         "textSnippet": "Unlock deeper insights into Machine Leaning with this vital guide to cutting-edge predictive analytics About This Book Leverage Python&#39;s most powerful open-source libraries for deep learning, data wrangling, and data visualization Learn ..."
       }
     },
+  "IimgDQAAQBAJ":
     {
       "kind": "books#volume",
-      "id": "IimgDQAAQBAJ",
+
       "etag": "CEfTzHLqVDA",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/IimgDQAAQBAJ",
       "volumeInfo": {
@@ -627,9 +624,10 @@
         "textSnippet": "This book: Provides complete coverage of the major concepts and techniques of natural language processing (NLP) and text analytics Includes practical real-world examples of techniques for implementation, such as building a text ..."
       }
     },
+  "ZfcxDwAAQBAJ":
     {
       "kind": "books#volume",
-      "id": "ZfcxDwAAQBAJ",
+
       "etag": "wYgdl8updG8",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/ZfcxDwAAQBAJ",
       "volumeInfo": {
@@ -725,9 +723,9 @@
         "textSnippet": "Перед вами - увлекательная книга, которую по достоинству оценит любой неравнодушный программист и даже бывалый питонщик. Она ..."
       }
     },
+  "Xy_aFxIAWCgC":
     {
       "kind": "books#volume",
-      "id": "Xy_aFxIAWCgC",
       "etag": "BLant4gD3Rw",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/Xy_aFxIAWCgC",
       "volumeInfo": {
@@ -800,9 +798,9 @@
         "textSnippet": "Important Notice: The digital edition of this book is missing some of the images or content found in the physical edition."
       }
     },
+  "Y7RCCgjmowcC":
     {
       "kind": "books#volume",
-      "id": "Y7RCCgjmowcC",
       "etag": "/u05KFA1fOk",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/Y7RCCgjmowcC",
       "volumeInfo": {
@@ -872,5 +870,5 @@
         "textSnippet": "A guide to using the Python computer language to handle a variety of tasks in both the Unix and Linux servers."
       }
     }
-  ]
+
 }
